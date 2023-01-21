@@ -6,3 +6,7 @@ node_modules/
 
 # Ignore Divi Coming Soon Page JSON File
 divi-coming-soon-page.json
+
+# Ignore Misc
+.DS_Store
+.package-lock.json
