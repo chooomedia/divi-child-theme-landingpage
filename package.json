@@ -1,0 +1,35 @@
+{
+  "name": "tooly",
+  "version": "1.0.0",
+  "description": "Fancy animation for tooly landingpage",
+  "main": "assets/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chooomedia/divi-child-theme-landingpage.git"
+  },
+  "keywords": [
+    "landingpage",
+    "lead",
+    "e-mail",
+    "marketing",
+    "opt-in",
+    "module",
+    "hubspot",
+    "mailchimp",
+    "e-mail",
+    "marketing",
+    "marketing"
+  ],
+  "author": "Chris M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chooomedia/divi-child-theme-landingpage/issues"
+  },
+  "homepage": "https://github.com/chooomedia/divi-child-theme-landingpage#readme",
+  "dependencies": {
+    "pixi.js": "^7.1.0"
+  }
+}
