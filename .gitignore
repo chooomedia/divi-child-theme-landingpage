@@ -1,0 +1,8 @@
+# Ignore Visual Studio Code Workspace File
+.code-workspace
+
+# Ignore Node.js Modules
+node_modules/
+
+# Ignore Divi Coming Soon Page JSON File
+divi-coming-soon-page.json
